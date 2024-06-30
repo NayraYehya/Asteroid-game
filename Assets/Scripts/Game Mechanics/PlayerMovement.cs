@@ -11,8 +11,6 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] Score PlayerScore;
 
-    //[SerializeField] private IntEvents OnPlayerHealthChanging;
-
     [SerializeField] private TextMeshProUGUI HealthText;
     [SerializeField] private Animator animator;
 
